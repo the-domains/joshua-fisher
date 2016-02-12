@@ -1,0 +1,28 @@
+name: Joshua Fisher
+favicon: null
+layout_spectrum: 0.31848208885639906
+typography_spectrum: 0.8213605531491339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6191344598773867
+  lightness: 0.5068286908790469
+  saturation: 0.30688812490552664
+  rhythmicContrast: 0.846636388450861
+purpose: []
